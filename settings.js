@@ -24,7 +24,8 @@ global.APIKeys = {
 global.owner = ['923032112917']
 global.premium = ['923032112917']
 global.ownernomer = '923032112917'
-global.ownername = '🦄Dream Gu'
+global.ownername = 'AYAZ'
+
 global.botname = 'Cheems Bot MD V2'
 global.footer = '🦄AYAZ #bot.'
 global.ig = 'https://wa.me/+923032112917'
